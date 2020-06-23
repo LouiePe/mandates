@@ -1,3 +1,5 @@
+# *DRAFT
+
 # Role Mandate
 ## IT, Information Security and Compliance Manager
 ### Author:  @Louiepe
@@ -28,9 +30,6 @@ Every role in Beamery is aligned to a primary and secondary company North Star.
 Primary | This role is primarily aligned to the **Build a Category-Defining Product** North Star.
 Secondary | This role is secondarily aligned to the **Build a Winning Team** North Star.
 
----
-
-> Rework from here onwards
 
 ---
 
