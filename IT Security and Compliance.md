@@ -35,7 +35,7 @@ Secondary | This role is secondarily aligned to the **Build a Winning Team** Nor
 
 # Role Mandate
 
-It is the job of the Manager, IT Security and Compliance to **maintain consistent IT systems and audit compliance**, while avoiding obstacles that arise from a fast growing business. The Manager ITS&C is accountable for achieving **excellence in Beamery's IT security and compliance processes**, which will include ensuring efficient collaborations between all departments in Beamery particularly the People Team and Engineering, and effectively exerting agency over tools and tactics to **ensure all systems are managed and secure**.
+It is the job of the Manager, IT Security and Compliance to **maintain consistent IT systems and audit compliance**, while avoiding obstacles that arise from a fast growing business. The Manager ITS&C is accountable for achieving **excellence in Beamery's IT security and compliance processes**, which will include ensuring efficient collaborations between all departments in Beamery particularly the People Team and Engineering, and effectively exerting agency over tools and tactics to **ensure all systems are managed and secure**. The Manager, ITS&C is also responsible for the coordination and completion of all government, regulatory, and compliance documents for all business units in the organization.
 
 This role is an Individual Contributor (IC) position; it is very hands-on and manages and coorindates contributions from several teams within Beamery. It is for this reason that the Manager, ITS&C is a member of the **Engineering** team.
 
@@ -55,39 +55,27 @@ This role is an Individual Contributor (IC) position; it is very hands-on and ma
 
 ## Information Security and Compliance
 
-* Capture and manage the company risk log and corrective action register (CAR)
+* Identify risks by role, software, information type, and other categories and define acceptable and mitigation strategies
+* Manage the corrective action register (CAR)
 * Lead the Security working group (SWG) orgainising and documenting meetings and driving actions
 
 * Document, prioritize, and analyze security threats, incidents, and key metrics.
 * Review daily and periodic data to identify, report, and remedy vulnerabilities.
+* Evaluate organizational compliance performance and conduct or direct the internal investigation of compliance issues.
 * Configure and analyze security tools and software.   (maybe?)
-* Coordinate with [IT and] end users to minimize disruptions and protect assets
- 
-* Implement and monitor information security requirements, policies, and compliance.
+* Coordinate with end users to minimize disruptions and protect assets
+* Create, implement, administer, and enforce policies, procedures and laws required for a company to operate in accordance with the law and regulations to maintain compliance.
+* Establish and update the ISMS compliance manual.
+* Ensure relevant documents are in compliance with established guidelines and standards
 * Assist with regulatory and data transfer procedures.
 * Document and communicate policies, queries, vulnerabilities, and current state of the system.
-* Oversee training, policies, and practices, including audits, to ensure systems are securely operated.
-* Identify risks by role, software, information type, and other categories and define acceptable and mitigation strategies
- 
- 
-* Aggregate, process, and distribute compliance-related data.
-* Support implementation of compliance policies and procedures.
-* Evaluate organizational compliance performance
- 
-* Create, implement, administer, and enforce policies, procedures and laws required for a company to operate in accordance with the law and regulations.
-* Establish and update a compliance manual.
+* Carry out training on policies, and practices, including audits, to ensure systems are securely operated.
 * Perform routine internal audits to ensure that business is operating in accordance with regulations.
-* Consult with company about processes, practices, and systems and areas of improvement
  
 
-* Responsible for the coordination and completion of all government, regulatory, and compliance documents for all business units in an organization.
-* Ensure relevant documents are in compliance with established guidelines and standards
-
-* Assess product, compliance, or operational risks and develop risk management strategies.
-* Conduct periodic internal reviews or audits to ensure that compliance procedures are followed.
-* Conduct or direct the internal investigation of compliance issues.
-
-----
+---
+I think the below text is covered above but it needs to be checked
+---
 
 From our SOW with Nathan:
  
