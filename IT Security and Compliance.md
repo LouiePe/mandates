@@ -13,7 +13,7 @@ Division | This role is aligned to the **Engineering, Product & Design (EPD)** d
 Department | Engineering Management
 Team | This role is a member of the **Engineering** team.
 Reporting Line | This role reports to **Chief Technology Officer (CTO)**.
-Level | TBC:  Individual Contributor; non-executive
+Level | Individual Contributor
 Grade | Manager 
 Job Class | Individual Contributor
 Job Title | Manager, IT Security and Compliance
