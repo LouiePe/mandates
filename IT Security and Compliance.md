@@ -33,16 +33,16 @@ Conduct or direct the internal investigation of compliance issues.
 From our SOW with Nathan:
  
 Review the current state of the ISMS identifying the ‘as-is’ state.
-To identify areas of the deployed ISMS areas that require improvements.
-Identify policy improvements for the ISMS framework to be aligned with business objectives.
-Undertaken risk assessments to Identify high risk and high priority remediation areas.
-Update the information asset and risk register.
-Update the corrective actions register.
-Undertaken a monthly review of corrective actions and risks with the risk committee.
-Undertake a 3 monthly security work group management meeting and provide minutes.
-Update the security working group terms of reference periodically to align with objectives.
-Provide advisory on audit requirements; undertaken sample audits of the ISO27001 and SOC 2 controls.
-Provide advisory on information security related incidents / weaknesses / breaches.
-Co-ordinate requested customer audits.
-Provide advisory on related cybersecurity initiatives
+	To identify areas of the deployed ISMS areas that require improvements.
+	Identify policy improvements for the ISMS framework to be aligned with business objectives.
+	Undertaken risk assessments to Identify high risk and high priority remediation areas.
+	Update the information asset and risk register.
+	Update the corrective actions register.
+	Undertaken a monthly review of corrective actions and risks with the risk committee.
+	Undertake a 3 monthly security work group management meeting and provide minutes.
+	Update the security working group terms of reference periodically to align with objectives.
+	Provide advisory on audit requirements; undertaken sample audits of the ISO27001 and SOC 2 controls.
+	Provide advisory on information security related incidents / weaknesses / breaches.
+	Co-ordinate requested customer audits.
+	Provide advisory on related cybersecurity initiatives
 
