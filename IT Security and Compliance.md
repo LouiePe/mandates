@@ -1,6 +1,50 @@
-# IT, Information Security and Compliance Manager
+# Role Mandate
+## IT, Information Security and Compliance Manager
+### Author:  @Louiepe
 
-## IT
+---
+
+**Element** | **Value**
+------------ | -------------
+Function | This needs to be **Engineering** as this domain will be responsible for individual development and growth.
+Division | This role is aligned to the **Engineering, Product & Design (EPD)** division.
+Department | Engineering Management
+Team | This role is a member of the **Engineering** team.
+Reporting Line | This role reports to **Chief Technology Officer (CTO)**.
+Level | TBC:  Individual Contributor; non-executive
+Grade | Manager 
+Job Class | Individual Contributor
+Job Title | Manager, IT Security and Compliance
+Estimated Tenure | 36 months
+
+---
+
+# North Stars
+
+Every role in Beamery is aligned to a primary and secondary company North Star.
+
+**Priority** | **North Star Alignment**
+------------ | -------------
+Primary | This role is primarily aligned to the **Build a Category-Defining Product** North Star.
+Secondary | This role is secondarily aligned to the **Build a Winning Team** North Star.
+
+---
+
+> Rework from here onwards
+
+---
+
+# Role Mandate
+
+It is the job of the Manager, IT Security and Compliance to **maintain consistent IT systems and audit compliance**, while avoiding obstacles that arise from a fast growing business. The Manager ITS&C is accountable for achieving **excellence in Beamery's IT security and compliance processes**, which will include ensuring efficient collaborations between all departments in Beamery particularly the People Team and Engineering, and effectively exerting agency over tools and tactics to **ensure all systems are managed and secure**.
+
+This role is an Individual Contributor (IC) position; it is very hands-on and manages and coorindates contributions from several teams within Beamery. It is for this reason that the Manager, ITS&C is a member of the **Engineering** team.
+
+---
+
+# Role Success Criteria
+
+## Internal IT System Support
 
 * Own internal tools and work with the teams to define best practices
 * Own the administration and support of internal IT tools
@@ -43,6 +87,8 @@
 * Assess product, compliance, or operational risks and develop risk management strategies.
 * Conduct periodic internal reviews or audits to ensure that compliance procedures are followed.
 * Conduct or direct the internal investigation of compliance issues.
+
+----
 
 From our SOW with Nathan:
  
